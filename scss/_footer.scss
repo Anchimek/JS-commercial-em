@@ -1,0 +1,21 @@
+.footer {
+    padding: .5em;
+    background-color: var(--golden);
+
+    p {
+        margin: 0;
+    }
+
+    .info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+
+        padding: 0 1em;
+
+        color: var(--white);
+        font-size: .7rem;
+        font-weight: 400;
+    }
+}
